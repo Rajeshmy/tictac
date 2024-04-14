@@ -56,7 +56,7 @@ function App() {
    });
 
    setTimeout(() => {
-    checkwon(arr);
+    checkwon(narr);
    }, 300);
  }
 
